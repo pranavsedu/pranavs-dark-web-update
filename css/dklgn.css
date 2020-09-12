@@ -52,6 +52,7 @@ footer a{
 }
 .top{
 				width:100%;
+                                font-size:20px;
 				margin:0px;
 				padding:0px;
 				background-color:var(--top-color);
