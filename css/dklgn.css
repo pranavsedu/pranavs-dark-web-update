@@ -19,15 +19,20 @@ input:checked + label {
 	background: #9100ff;
 }
 
+.top{
+				padding:15px;
+				font-size:150%;
+}
+.top ul li{
+				padding:10px;
+				margin:8px;
+				width:95px;
+}
 input:checked + label:after {
 	left: calc(100% - 5px);
 	transform: translateX(-100%);
 }
-.top ul li{
-				padding:8px;
-				margin:8px;
-				width:72px;
-}
+
 .top ul li a{
 				text-decoration:none;
 				color:var(--text-wht);
@@ -52,7 +57,6 @@ footer a{
 }
 .top{
 				width:100%;
-                                font-size:20px;
 				margin:0px;
 				padding:0px;
 				background-color:var(--top-color);
