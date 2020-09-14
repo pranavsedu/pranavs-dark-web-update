@@ -1,0 +1,80 @@
+.YouTube{
+				background:url('img/gray.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.YouTube a{
+				color:#ffffff;
+				font-weight:500:
+				font-size:60px;
+				text-decoration:none;
+}
+.Email{
+				background:url('img/googlebg.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.Email a{
+				color:#ffffff;
+				font-weight:900:
+				font-size:60px;
+				text-decoration:none;
+}
+.Tele{
+				background:url('img/OIP.jpeg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.Tele a{
+				color:#ffffff;
+				font-weight:bold:
+				font-size:60px;
+				text-decoration:none;
+}
+
+.Instagram{
+				background:url('img/instabg.jpeg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.Instagram a{
+				color:#ffffff;
+				font-weight:bold:
+				font-size:60px;
+				text-decoration:none;
+}
+.Google{
+				background:url('img/bgmail.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.Google a{
+				color:#ffffff;
+				font-weight:bold:
+				font-size:60px;
+				text-decoration:none;
+}
+
+.Whatsapp{
+				background:url('img/WADark.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius:10px;
+  margin:10px;
+}
+.Whatsapp a{
+				color:#ffffff;
+				font-weight:500:
+				font-size:60px;
+				text-decoration:none;
+}
