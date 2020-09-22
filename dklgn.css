@@ -37,6 +37,7 @@ input:checked + label {
 .top{
 				padding:15px;
 				font-size:150%;
+                                z-index:1;
 }
 .top ul li{
 				padding:10px;
